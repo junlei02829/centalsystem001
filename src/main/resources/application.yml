@@ -98,7 +98,7 @@ spring:
     admin:
       client:
         url: http://localhost:8081
-        username: mrbird
+        username: adimin
         password: 123456
   application:
     name: febs
